@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1575638315,,"wq"
+|2,0,1575638599,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,18 +25,22 @@
 # Registers:
 
 # File marks:
-'0  1  6  ~/.git/COMMIT_EDITMSG
-|4,48,1,6,1575638315,"~/.git/COMMIT_EDITMSG"
+'0  1  14  ~/.git/COMMIT_EDITMSG
+|4,48,1,14,1575638599,"~/.git/COMMIT_EDITMSG"
+'1  1  6  ~/.git/COMMIT_EDITMSG
+|4,49,1,6,1575638315,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  1  14  ~/.git/COMMIT_EDITMSG
+|4,39,1,14,1575638599,"~/.git/COMMIT_EDITMSG"
 -'  1  6  ~/.git/COMMIT_EDITMSG
 |4,39,1,6,1575638315,"~/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
 
 > ~/.git/COMMIT_EDITMSG
-	*	1575638314	0
-	"	1	6
-	^	1	7
-	.	1	6
-	+	1	6
+	*	1575638598	0
+	"	1	14
+	^	1	15
+	.	1	14
+	+	1	14
